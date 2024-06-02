@@ -37,4 +37,4 @@ If not setted, the default parameters will be used.
 
 # Some results
 
-![Solar System](
+![Solar System](https://github.com/giorgio-angelo-esposito/N-body-simulation/blob/main/gifs/solar_system_4.gif)
