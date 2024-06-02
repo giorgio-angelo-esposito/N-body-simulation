@@ -11,7 +11,7 @@ parser.add_argument("--method", choices=["RK", "Runge_Kutta", "AB", "Adams-Bashf
 parser.add_argument("--AB_order", type=int, default=2, help="Order of the Adams-Bashford method (applied only if method = AB)")
 parser.add_argument("--plot", choices=["S", "L"], default="S", help="Plot type: S (Scatter plot) o L (Normal plot) (default: S)")
 parser.add_argument("--make_gif", action="store_true", help="Flag for the creation of an animation of the simulation (default: False)")
-parser.add_argument("--test_case", choices=["solar_system", "earth_moon", "pluto_charon"], default=None, help="String for the load of a test_case. Available\nsolar_system, N\nearth_moon\npluto_charon\n (default: None)")
+parser.add_argument("--test_case", choices=["solar_system", "earth_moon", "pluto_charon", "sun_earth_moon"], default=None, help="String for the load of a test_case. Available\nsolar_system, N\nearth_moon\npluto_charon\nsun_earth_moon\n (default: None)")
 
 # Acquisition and validation of arguments
 args = parser.parse_args()
