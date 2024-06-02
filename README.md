@@ -16,7 +16,7 @@ The script files are:
 
 # Required libraries
 
-* numpy
+* 'numpy'
 * matplotlib
 * mpl_toolkits
 * gc
