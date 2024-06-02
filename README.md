@@ -37,7 +37,11 @@ If not setted, the default parameters will be used.
 
 # Some results
 
-- ![Solar System (4 planets)](https://github.com/giorgio-angelo-esposito/N-body-simulation/blob/main/gifs/solar_system_4.gif)
-- ![Sun-Earth-Moon](https://github.com/giorgio-angelo-esposito/N-body-simulation/blob/main/gifs/sun_earth_moon.gif)
-- ![Earth-Moon](https://github.com/giorgio-angelo-esposito/N-body-simulation/blob/main/gifs/earth_moon.gif)
-- ![Pluto-Charon](https://github.com/giorgio-angelo-esposito/N-body-simulation/blob/main/gifs/pluto_charon.gif)
+-
+  ![Solar System (4 planets)](https://github.com/giorgio-angelo-esposito/N-body-simulation/blob/main/gifs/solar_system_4.gif)
+-
+  ![Sun-Earth-Moon](https://github.com/giorgio-angelo-esposito/N-body-simulation/blob/main/gifs/sun_earth_moon.gif)
+-
+  ![Earth-Moon](https://github.com/giorgio-angelo-esposito/N-body-simulation/blob/main/gifs/earth_moon.gif)
+-
+  ![Pluto-Charon](https://github.com/giorgio-angelo-esposito/N-body-simulation/blob/main/gifs/pluto_charon.gif)
