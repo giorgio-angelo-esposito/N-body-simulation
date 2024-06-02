@@ -226,3 +226,13 @@ def load_test_case(test_case, N = 4):
     pluto_charon = [pluto, charon]
 
     return pluto_charon
+    
+   ###############################################################################################################
+  elif test_case == "sun earth moon" or test_case == "sun_earth_moon":
+
+    sun = Body(1.989e30, np.array([0.0,0.0], dtype=np.float64), np.array([0.0,0.0], dtype=np.float64))
+    earth = Body(5.972e24, np.array([1.496e11, 0], dtype = np.float64), np.array([0, 29780], dtype = np.float64))
+    moon = Body(7.342e22, np.array([1.496e11 + 384400e3, 0], dtype=np.float64), np.array([0, 30802], dtype = np.float64))
+
+    sun_earth_moon = [sun, earth, moon]
+    return sun_earth_moon
