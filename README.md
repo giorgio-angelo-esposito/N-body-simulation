@@ -1,4 +1,3 @@
-
 # N-body Simulation
 
 The code for an N-body simulation in Python. This is the project for the Computetional Models for Complex System exam.
@@ -35,3 +34,7 @@ python main.py --help
 ```
 
 If not setted, the default parameters will be used.
+
+# Some results
+
+![Solar System](
