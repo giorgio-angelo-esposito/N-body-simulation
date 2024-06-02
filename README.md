@@ -37,17 +37,14 @@ If not setted, the default parameters will be used.
 
 # Some results
 
-Text 1
-<div>
-    <img src="(https://github.com/giorgio-angelo-esposito/N-body-simulation/blob/main/gifs/solar_system_4.gif)" alt="GIF 1">
-</div>
-Text 2
-<div>
-    <img src="(https://github.com/giorgio-angelo-esposito/N-body-simulation/blob/main/gifs/sun_earth_moon.gif)" alt="GIF 2">
-</div>
+Solar System (4 planets)
+![Solar System (4 planets)](https://raw.githubusercontent.com/giorgio-angelo-esposito/N-body-simulation/main/gifs/solar_system_4.gif)
 
+Sun-Earth-Moon
+![Sun-Earth-Moon](https://raw.githubusercontent.com/giorgio-angelo-esposito/N-body-simulation/main/gifs/sun_earth_moon.gif)
 
-![Solar System (4 planets)](https://github.com/giorgio-angelo-esposito/N-body-simulation/blob/main/gifs/solar_system_4.gif)
-![Sun-Earth-Moon](https://github.com/giorgio-angelo-esposito/N-body-simulation/blob/main/gifs/sun_earth_moon.gif)
-![Earth-Moon](https://github.com/giorgio-angelo-esposito/N-body-simulation/blob/main/gifs/earth_moon.gif)
-![Pluto-Charon](https://github.com/giorgio-angelo-esposito/N-body-simulation/blob/main/gifs/pluto_charon.gif)
+Earth-Moon
+![Earth-Moon](https://raw.githubusercontent.com/giorgio-angelo-esposito/N-body-simulation/main/gifs/earth_moon.gif)
+
+Pluto-Charon
+![Pluto-Charon](https://raw.githubusercontent.com/giorgio-angelo-esposito/N-body-simulation/main/gifs/pluto_charon.gif)
